@@ -1,0 +1,1 @@
+var fun1=function(){console.log("func1")};fun1();var fun2=function(){console.log("func2")};fun2();var fun3=function(){console.log("func3")};fun3();
